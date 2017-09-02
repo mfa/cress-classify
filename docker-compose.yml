@@ -1,0 +1,19 @@
+main:
+  build: .
+  environment:
+      PYTHONUNBUFFERED: 0
+  volumes:
+   - ./notebook:/data
+  ports:
+   - "8888:8888"
+board:
+  build: .
+  entrypoint:
+    - "tensorboard"
+  command: "--logdir=/data/logs/"
+  environment:
+      PYTHONUNBUFFERED: 0
+  volumes:
+   - ./notebook:/data
+  ports:
+   - "6006:6006"

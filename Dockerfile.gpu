@@ -1,0 +1,9 @@
+FROM gcr.io/tensorflow/tensorflow:1.2.1-gpu-py3
+MAINTAINER xx
+
+ENV KERAS_BACKEND tensorflow
+
+ADD ../requirements-gpu.txt /tmp/requirements-gpu.txt
+RUN pip install -r /tmp/requirements-gpu.txt
+
+CMD ["/run_jupyter.sh", "--allow-root"]
