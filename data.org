@@ -1,0 +1,25 @@
+#+STARTUP: showeverything
+
+** photos as hdf5
+
+For every cycle a zip-file with both 128x96 and 256x192 matrices per photo.
+
+i.e. https://cress.space/hdf5/cycle107_hdf5_cache.zip
+
+Downloadable cycles are: 48, 51, 52, 54-108
+
+** csvs of sensors, photos
+
+Every cycle has three files:
+
+|----------------------------------------+------------------------------------------------------|
+| Type                                   | (example) filename                                   |
+|----------------------------------------+------------------------------------------------------|
+| sensor values                          | https://cress.space/csv/cycle_107.csv                |
+| list of photos                         | https://cress.space/csv/photo_cycle_107.csv          |
+| photos matches to nearest water sensor | https://cress.space/csv/photo_cycle_107_enriched.csv |
+|----------------------------------------+------------------------------------------------------|
+
+Downloadable cycles are: 3-8, 10-112
+
+Cycle 9 is the room camera and room DHT22 sensor.
