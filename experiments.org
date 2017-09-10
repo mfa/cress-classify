@@ -8,9 +8,12 @@ This table gets updated by @mfa every sunday evening.
 | box | cycle | cycle_id | plant    | soil    | mold | score* |      start |        end | camera |     water |  cress |    water | fertilizer | missing |
 |     |       |          |          |         |      |        |            |            |        | threshold | (in g) |   (in g) |            | report  |
 |-----+-------+----------+----------+---------+------+--------+------------+------------+--------+-----------+--------+----------+------------+---------|
-|   3 |    25 |      118 | phacelia | potting |      |        | 2017-08-27 |            | 5MP    |      6000 |        |          | -          |         |
-|   2 |    41 |      117 | phacelia | potting |      |        | 2017-08-27 |            | 5MP    |      6000 |        |          | -          |         |
-|   1 |    49 |      116 | phacelia | potting |      |        | 2017-08-27 |            | 5MP    |      6000 |        |          | -          |         |
+|   3 |    26 |      121 | phacelia | potting |      |        | 2017-09-10 |            | 5MP    |      8000 |        |          | -          |         |
+|   2 |    42 |      120 | phacelia | potting |      |        | 2017-09-10 |            | 5MP    |      8000 |        |          | -          |         |
+|   1 |    50 |      119 | phacelia | potting |      |        | 2017-09-10 |            | 5MP    |      6000 |        |          | -          |         |
+|   3 |    25 |      118 | phacelia | potting | x    | 0      | 2017-08-27 | 2017-09-10 | 5MP    |      6000 |      3 |       37 | -          | x       |
+|   2 |    41 |      117 | phacelia | potting | x    | 0      | 2017-08-27 | 2017-09-10 | 5MP    |      6000 |      3 |        0 | -          | x       |
+|   1 |    49 |      116 | phacelia | potting |      | ++     | 2017-08-27 | 2017-09-10 | 5MP    |      6000 |     37 |        0 | -          | x       |
 |   3 |    24 |      115 | cress    | potting | x    | +      | 2017-08-20 | 2017-08-27 | 5MP    |      6000 |     21 |        0 | -          | x       |
 |   2 |    40 |      114 | cress    | potting | -    | ++     | 2017-08-20 | 2017-08-27 | 5MP    |      6000 |     28 |        0 | -          | x       |
 |   1 |    48 |      113 | cress    | potting | -    | ++     | 2017-08-20 | 2017-08-27 | 5MP    |      6000 |     29 |        0 | -          | x       |
