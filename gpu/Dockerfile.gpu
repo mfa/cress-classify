@@ -3,7 +3,7 @@ MAINTAINER xx
 
 ENV KERAS_BACKEND tensorflow
 
-ADD ../requirements-gpu.txt /tmp/requirements-gpu.txt
+ADD requirements-gpu.txt /tmp/requirements-gpu.txt
 RUN pip install -r /tmp/requirements-gpu.txt
 
 CMD ["/run_jupyter.sh", "--allow-root"]

@@ -1,8 +1,7 @@
-tensorflow
-runipy
+tensorflow-gpu
 keras
 Pillow
 progressbar2
 pandas
-requests
 h5py
+requests
