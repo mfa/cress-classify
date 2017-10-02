@@ -3,7 +3,7 @@
 ## intro
 
 - Data from https://cress.space/
-- First public release with Talk on MRMCD17 (Talk in German)
+- First public release with Talk on MRMCD17 (Talk in German) - https://cfp.mrmcd.net/2017/talk/EFZ97G/
 
 
 ## experiments
