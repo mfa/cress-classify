@@ -8,8 +8,10 @@ This table gets updated by @mfa every sunday evening.
 | box | cycle | cycle_id | plant    | soil    | mold | score* |      start |        end | camera |     water |  cress |    water | fertilizer | missing |
 |     |       |          |          |         |      |        |            |            |        | threshold | (in g) |   (in g) |            | report  |
 |-----+-------+----------+----------+---------+------+--------+------------+------------+--------+-----------+--------+----------+------------+---------|
-|   3 |    28 |      127 | phacelia | potting |      |        | 2017-10-01 |            | 5MP    |      8000 |        |          | -          |         |
-|   2 |    44 |      126 | phacelia | potting |      |        | 2017-10-01 |            | 5MP    |      8000 |        |          | -          |         |
+|   3 |    29 |      129 | phacelia | potting |      |        | 2017-10-08 |            | 5MP    |      8000 |        |          | -          |         |
+|   2 |    45 |      128 | phacelia | potting |      |        | 2017-10-08 |            | 5MP    |      8000 |        |          | -          |         |
+|   3 |    28 |      127 | phacelia | potting | x    | ++     | 2017-10-01 | 2017-10-08 | 5MP    |      8000 |     48 |       66 | -          | x       |
+|   2 |    44 |      126 | phacelia | potting | x    | ++     | 2017-10-01 | 2017-10-08 | 5MP    |      8000 |     31 |        0 | -          | x       |
 |   1 |    52 |      125 | daisies  | potting |      |        | 2017-10-01 |            | 5MP    |      6000 |        |          | -          |         |
 |   3 |    27 |      124 | phacelia | potting | x    | +      | 2017-09-24 | 2017-10-01 | 5MP    |      8000 |      8 |        0 | -          | x       |
 |   2 |    43 |      123 | phacelia | potting | x    | +      | 2017-09-24 | 2017-10-01 | 5MP    |      8000 |     15 |       96 | -          | x       |
