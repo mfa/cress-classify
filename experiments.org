@@ -8,9 +8,12 @@ This table gets updated by @mfa every sunday evening.
 | box | cycle | cycle_id | plant    | soil    | mold | score* |      start |        end | camera |     water |  cress |    water | fertilizer | missing |
 |     |       |          |          |         |      |        |            |            |        | threshold | (in g) |   (in g) |            | report  |
 |-----+-------+----------+----------+---------+------+--------+------------+------------+--------+-----------+--------+----------+------------+---------|
-|   3 |    30 |      137 | phacelia | potting |      |        | 2017-10-29 |            | 5MP    |      8000 |        |          | -          |         |
-|   2 |    46 |      136 | phacelia | potting |      |        | 2017-10-29 |            | 5MP    |      8000 |        |          | -          |         |
-|   1 |    52 |      135 | phacelia | potting |      |        | 2017-10-29 |            | 5MP    |      6000 |        |          | -          |         |
+|   3 |    31 |      140 | phacelia | potting |      |        | 2017-11-05 |            | 5MP    |      8000 |        |          | -          |         |
+|   2 |    47 |      139 | phacelia | potting |      |        | 2017-11-05 |            | 5MP    |      8000 |        |          | -          |         |
+|   1 |    54 |      138 | phacelia | potting |      |        | 2017-11-05 |            | 5MP    |      6000 |        |          | -          |         |
+|   3 |    30 |      137 | phacelia | potting | x    | ++     | 2017-10-29 | 2017-11-05 | 5MP    |      8000 |     37 |        0 | -          | x       |
+|   2 |    46 |      136 | phacelia | potting | x    | ++     | 2017-10-29 | 2017-11-05 | 5MP    |      8000 |     36 |       10 | -          | x       |
+|   1 |    52 |      135 | phacelia | potting | x    | ++     | 2017-10-29 | 2017-11-05 | 5MP    |      6000 |     19 |       44 | -          | x       |
 |   3 |    30 |      134 | phacelia | potting | x    | ++     | 2017-10-22 | 2017-10-29 | 5MP    |      8000 |     38 |       75 | -          | x       |
 |   2 |    46 |      133 | phacelia | potting | x    | ++     | 2017-10-22 | 2017-10-29 | 5MP    |      8000 |     25 |       70 | -          | x       |
 |   1 |    52 |      132 | phacelia | potting | x    | +      | 2017-10-22 | 2017-10-29 | 5MP    |      6000 |      5 |      104 | -          | x       |
