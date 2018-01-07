@@ -8,13 +8,19 @@ This table gets updated by @mfa every sunday evening.
 | box | cycle | cycle_id | plant            | soil    | mold | score* |      start |        end | camera |     water |  cress |    water | fertilizer | missing | notes          |   |
 |     |       |          |                  |         |      |        |            |            |        | threshold | (in g) |   (in g) |            | report  |                |   |
 |-----+-------+----------+------------------+---------+------+--------+------------+------------+--------+-----------+--------+----------+------------+---------+----------------+---|
-|   3 |    35 |      146 | phacelia         | potting |      |        | 2017-12-10 |            | 5MP    |      8000 |        |          | -          |         |                |   |
-|   2 |    52 |      145 | phacelia         | potting |      |        | 2017-12-10 |            | 5MP    |      8000 |        |          | -          |         |                |   |
-|   1 |    57 |      144 | phacelia         | potting |      |        | 2017-12-10 |            | 5MP    |      6000 |        |          | -          |         |                |   |
-|   3 |    35 |      146 | phacelia         | potting | x    | ++     | 2017-12-03 | 2017-12-12 | 5MP    |      8000 |      9 |        0 | -          | x       | few seeds test |   |
-|   2 |    52 |      145 | phacelia         | potting | -    | ++     | 2017-12-03 | 2017-12-12 | 5MP    |      8000 |      0 |      126 | -          | x       | camera fail    |   |
-|   1 |    57 |      144 | phacelia         | potting | -    | ++     | 2017-12-03 | 2017-12-12 | 5MP    |      6000 |      0 |        0 | -          | x       | few seeds test |   |
-|   2 |    51 |      142 | phacelia         | potting | x    | +      | 2017-11-26 | 2017-12-03 | 5MP    |      8000 |     16 |       77 | -          | x       |                |   |
+|   3 |    38 |      156 | phacelia         | potting |      |        | 2018-01-07 |            | 5MP    |      8000 |        |          | -          |         |                |   |
+|   2 |    55 |      155 | phacelia         | potting |      |        | 2018-01-07 |            | 5MP    |      8000 |        |          | -          |         |                |   |
+|   1 |    60 |      154 | phacelia         | potting |      |        | 2018-01-07 |            | 5MP    |      6000 |        |          | -          |         |                |   |
+|   1 |    59 |      153 | phacelia         | potting | -    | +      | 2017-12-31 | 2018-01-07 | 5MP    |      6000 |      9 |        0 | -          | x       |                |   |
+|   3 |    37 |      152 | trifolium repens | potting | -    | -      | 2017-12-17 | 2018-01-07 | 5MP    |      8000 |      0 |       78 | -          | x       |                |   |
+|   2 |    54 |      151 | trifolium repens | potting | -    | -      | 2017-12-17 | 2018-01-07 | 5MP    |      8000 |      1 |       94 | -          | x       |                |   |
+|   3 |    36 |      150 | phacelia         | potting | -    | +      | 2017-12-10 | 2017-12-17 | 5MP    |      8000 |     11 |      106 | -          | x       |                |   |
+|   2 |    53 |      149 | phacelia         | potting | -    | 0      | 2017-12-10 | 2017-12-17 | 5MP    |      8000 |      0 |       96 | -          | x       |                |   |
+|   1 |    58 |      148 | phacelia         | potting | -    | ++     | 2017-12-10 | 2017-12-31 | 5MP    |      6000 |     63 |      166 | -          | x       |                |   |
+|   3 |    35 |      147 | phacelia         | potting | x    | ++     | 2017-12-03 | 2017-12-10 | 5MP    |      8000 |      9 |        0 | -          | x       | few seeds test |   |
+|   2 |    52 |      146 | phacelia         | potting | -    | ++     | 2017-12-03 | 2017-12-10 | 5MP    |      8000 |      0 |      126 | -          | x       | camera fail    |   |
+|   1 |    57 |      145 | phacelia         | potting | -    | ++     | 2017-12-03 | 2017-12-10 | 5MP    |      6000 |      0 |        0 | -          | x       | few seeds test |   |
+|   2 |    51 |      144 | phacelia         | potting | x    | +      | 2017-11-26 | 2017-12-03 | 5MP    |      8000 |     16 |       77 | -          | x       |                |   |
 |   3 |    34 |      143 | trifolium repens | potting | x    | -      | 2017-11-12 | 2017-12-03 | 5MP    |      8000 |      0 |        0 | -          | x       |                |   |
 |   2 |    50 |      142 | trifolium repens | potting | x    | -      | 2017-11-12 | 2017-11-26 | 5MP    |      8000 |      0 |      159 | -          | x       |                |   |
 |   1 |    56 |      141 | trifolium repens | potting | x    | -      | 2017-11-12 | 2017-12-03 | 5MP    |      6000 |      0 |       41 | -          | x       |                |   |
