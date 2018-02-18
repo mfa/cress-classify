@@ -85,6 +85,9 @@ def enrich_photo_csv(cycle):
     water_list_seconds = sorted(df_water['seconds_from_cycle_start'].values)
     for idx, photo_ds in bar(df_photos.iterrows()):
         a = return_closest(water_list_seconds, photo_ds['seconds_from_cycle_start'])
+        if a > 900:
+            # ignore if photo is more than 900 seconds of.
+            continue
         df_photos.loc[idx, 'watermark'] = (df_water[df_water['seconds_from_cycle_start'] == a]['value']).values[0]
         df_photos.loc[idx, 'watermark_seconds_from_start'] = a
 
