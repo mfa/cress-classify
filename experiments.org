@@ -8,9 +8,15 @@ This table gets updated by @mfa every sunday evening.
 | box | cycle | cycle_id | plant            | soil    | mold | score* |      start |        end | camera |     water |  cress |    water | fertilizer | missing | notes          |
 |     |       |          |                  |         |      |        |            |            |        | threshold | (in g) |   (in g) |            | report  |                |
 |-----+-------+----------+------------------+---------+------+--------+------------+------------+--------+-----------+--------+----------+------------+---------+----------------|
-|   3 |    46 |      177 | phacelia         | potting |      |        | 2018-03-18 |            | 5MP    |     10000 |        |          |            |         |                |
-|   2 |    62 |      176 | phacelia         | potting |      |        | 2018-03-18 |            | 5MP    |     10000 |        |          |            |         |                |
-|   1 |    66 |      175 | phacelia         | potting |      |        | 2018-03-18 |            | 5MP    |     10000 |        |          |            |         |                |
+|   3 |    49 |      183 | trifolium repens | potting |      |        | 2018-04-15 |            | 5MP    |     10000 |        |          | -          |         |                |
+|   2 |    64 |      182 | trifolium repens | potting |      |        | 2018-04-15 |            | 5MP    |     10000 |        |          | -          |         |                |
+|   1 |    68 |      181 | trifolium repens | potting |      |        | 2018-04-15 |            | 5MP    |     10000 |        |          | -          |         |                |
+|   3 |    48 |      180 | phacelia         | potting | x    | 0      | 2018-04-01 | 2018-04-15 | 5MP    |     10000 |      4 |       25 | -          | x       | beyond peak    |
+|   2 |    63 |      179 | phacelia         | potting | x    | +      | 2018-04-01 | 2018-04-15 | 5MP    |     10000 |     18 |       14 | -          | x       | beyond peak    |
+|   1 |    67 |      178 | phacelia         | potting | x    | 0      | 2018-04-01 | 2018-04-15 | 5MP    |     10000 |      0 |       46 | -          | x       | beyond peak    |
+|   3 |    47 |      177 | phacelia         | potting | x    | ++     | 2018-03-18 | 2018-04-01 | 5MP    |     10000 |     12 |       28 | -          | x       |                |
+|   2 |    62 |      176 | phacelia         | potting | -    | ++     | 2018-03-18 | 2018-04-01 | 5MP    |     10000 |     39 |       30 | -          | x       |                |
+|   1 |    66 |      175 | phacelia         | potting | -    | ++     | 2018-03-18 | 2018-04-01 | 5MP    |     10000 |     16 |       75 | -          | x       |                |
 |   3 |    45 |      174 | phacelia         | potting | x    | ++     | 2018-03-04 | 2018-03-18 | 5MP    |     10000 |     21 |       45 | -          | x       |                |
 |   2 |    61 |      173 | phacelia         | potting | -    | ++     | 2018-03-04 | 2018-03-18 | 5MP    |     10000 |     35 |       18 | -          | x       |                |
 |   1 |    65 |      172 | phacelia         | potting | -    | ++     | 2018-03-04 | 2018-03-18 | 5MP    |     10000 |     24 |      108 | -          | x       |                |
