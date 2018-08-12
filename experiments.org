@@ -8,15 +8,15 @@ This table gets updated by @mfa every sunday evening.
 | box | cycle | cycle_id | plant            | soil    | mold | score* |      start |        end | camera |     water |  cress |    water | fertilizer | missing | notes                      |
 |     |       |          |                  |         |      |        |            |            |        | threshold | (in g) |   (in g) |            | report  |                            |
 |-----+-------+----------+------------------+---------+------+--------+------------+------------+--------+-----------+--------+----------+------------+---------+----------------------------|
-|   3 |    56 |      218 | cress            | potting |      |        | 2018-08-12 |            | 5MP    |      8000 |        |          | -          |         | extra abgedunkelt/ohne LED |
-|   2 |    73 |      217 | cress            | potting |      |        | 2018-08-12 |            | 5MP    |      8000 |        |          | -          |         | extra abgedunkelt/ohne LED |
-|   1 |    77 |      216 | cress            | potting |      |        | 2018-08-12 |            | 5MP    |      8000 |        |          | -          |         | ohne LED                   |
-|   3 |    56 |      215 | cress            | potting | -    | +      | 2018-08-05 | 2018-08-12 | 5MP    |     10000 |     11 |      666 | -          | x       | extra abgedunkelt/ohne LED |
-|   2 |    73 |      214 | cress            | potting | -    | +      | 2018-08-05 | 2018-08-12 | 5MP    |     10000 |     11 |      108 | -          | x       | extra abgedunkelt/ohne LED |
-|   1 |    77 |      213 | cress            | potting | -    | +      | 2018-08-05 | 2018-08-12 | 5MP    |     10000 |     13 |      488 | -          | x       | ohne LED                   |
-|   3 |    56 |      212 | cress            | potting | -    | -      | 2018-07-29 | 2018-08-05 | 5MP    |     10000 |      0 |      159 | -          | x       | ½W LED with red/blue light |
-|   2 |    73 |      211 | cress            | potting | -    | +      | 2018-07-29 | 2018-08-05 | 5MP    |     10000 |     16 |       95 | -          | x       | ½W LED with red/blue light |
-|   1 |    77 |      210 | cress            | potting | -    | -      | 2018-07-29 | 2018-08-05 | 5MP    |     10000 |      0 |        0 | -          | x       | ½W LED with red/blue light |
+|   3 |    59 |      218 | cress            | potting |      |        | 2018-08-12 |            | 5MP    |      8000 |        |          | -          |         | extra abgedunkelt/ohne LED |
+|   2 |    76 |      217 | cress            | potting |      |        | 2018-08-12 |            | 5MP    |      8000 |        |          | -          |         | extra abgedunkelt/ohne LED |
+|   1 |    80 |      216 | cress            | potting |      |        | 2018-08-12 |            | 5MP    |      8000 |        |          | -          |         | ohne LED                   |
+|   3 |    58 |      215 | cress            | potting | -    | +      | 2018-08-05 | 2018-08-12 | 5MP    |     10000 |     11 |      666 | -          | x       | extra abgedunkelt/ohne LED |
+|   2 |    75 |      214 | cress            | potting | -    | +      | 2018-08-05 | 2018-08-12 | 5MP    |     10000 |     11 |      108 | -          | x       | extra abgedunkelt/ohne LED |
+|   1 |    79 |      213 | cress            | potting | -    | +      | 2018-08-05 | 2018-08-12 | 5MP    |     10000 |     13 |      488 | -          | x       | ohne LED                   |
+|   3 |    57 |      212 | cress            | potting | -    | -      | 2018-07-29 | 2018-08-05 | 5MP    |     10000 |      0 |      159 | -          | x       | ½W LED with red/blue light |
+|   2 |    74 |      211 | cress            | potting | -    | +      | 2018-07-29 | 2018-08-05 | 5MP    |     10000 |     16 |       95 | -          | x       | ½W LED with red/blue light |
+|   1 |    78 |      210 | cress            | potting | -    | -      | 2018-07-29 | 2018-08-05 | 5MP    |     10000 |      0 |        0 | -          | x       | ½W LED with red/blue light |
 |   3 |    56 |      209 | phacelia         | potting | -    | 0      | 2018-07-08 | 2018-07-29 | 5MP    |     10000 |      0 |        0 | -          | x       | ½W LED with red/blue light |
 |   2 |    73 |      208 | phacelia         | potting | -    | 0      | 2018-07-08 | 2018-07-29 | 5MP    |     10000 |      3 |        0 | -          | x       | ½W LED with red/blue light |
 |   1 |    77 |      207 | phacelia         | potting | -    | 0      | 2018-07-08 | 2018-07-29 | 5MP    |     10000 |      3 |       98 | -          | x       | ½W LED with red/blue light |
